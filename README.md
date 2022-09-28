@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Yusbely
+#### I am Full Stack Developer
+![I am Full Stack Developer](https://github.com/yusbelypv/yusbelypv/blob/main/git.png)
 
-<!--
-**yusbelypv/yusbelypv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am also a Systems Engineer. I am currently dedicated to the world of programming. I love creating and being able to build technological solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on  in my portfolio 
+- 📫 How to reach me: https://www.linkedin.com/in/yusbely-parra/ 
+
+
+
+
