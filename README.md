@@ -18,7 +18,7 @@ Sistema de gestión de contenidos (CMS) Wordpress
 
 - 🌱 Actualmente me encuentro aprendiendo nuevas tecnologías 
 - 📫 Linkedin: https://www.linkedin.com/in/yusbely-parra/
-- 📫 Portafolio: [briefcase-seven.vercel.app/](https://briefcase-seven.vercel.app/)https://briefcase-seven.vercel.app/
+- 📫 Portafolio: (https://briefcase-seven.vercel.app/)https://briefcase-seven.vercel.app/
 
 
 
