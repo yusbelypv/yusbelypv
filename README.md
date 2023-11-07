@@ -5,7 +5,8 @@
 Me encanta crear y poder construir soluciones tecnológicas.
 
 Soft Skills: Comunicación / Resolución de problemas / Trabajo en equipo / 
-Autogestión / Curiosidad 
+Autogestión / Curiosidad / Responsabilidad / Capacidad de Análisis 
+
 Hard Skill: 
 Lenguajes de programación: Javascript
 Lenguaje de marcado (Html), Hojas de Estilos
