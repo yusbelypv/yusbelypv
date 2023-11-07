@@ -1,13 +1,23 @@
-### Hi there 👋, my name is Yusbely
-#### I am Full Stack Developer
-![I am Full Stack Developer](https://github.com/yusbelypv/yusbelypv/blob/main/git.png)
+### Hola 👋, mi nombre es Yusbely
+#### Soy Ingeniero de Sistemas 
+![También soy desarrollador](https://github.com/yusbelypv/yusbelypv/blob/main/git.png)
 
 I am also a Systems Engineer. I am currently dedicated to the world of programming. I love creating and being able to build technological solutions.
 
-Skills: JS / REACT / JS / HTML / CSS / SQL
+Soft Skills: Comunicación / Resolución de problemas / Trabajo en equipo / 
+Autogestión / Curiosidad 
+Hard Skill: 
+Lenguajes de programación: Javascript
+Lenguaje de marcado (Html), Hojas de Estilos
+Manejo de:
+Editor de texto (Visual Studio Code) / Plataforma Business Intelligence (QlikSense) 
+Plataforma sin código (AppSheet)
+Sistema de gestión de contenidos (CMS) Wordpress
 
-- 🌱 I’m currently learning new technologies as: TypeScript, jQuery 
-- 📫 How to reach me: https://www.linkedin.com/in/yusbely-parra/ 
+
+- 🌱 Actualmente me encuentro aprendiendo nuevas tecnologías 
+- 📫 Linkedin: https://www.linkedin.com/in/yusbely-parra/
+- 📫 Portafolio: briefcase-seven.vercel.app/
 
 
 
