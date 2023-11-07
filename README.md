@@ -8,8 +8,8 @@ Soft Skills: Comunicación / Resolución de problemas / Trabajo en equipo /
 Autogestión / Curiosidad / Responsabilidad / Capacidad de Análisis 
 
 Hard Skill: 
-Lenguajes de programación: Javascript
-Lenguaje de marcado (Html), Hojas de Estilos
+Lenguajes de programación: Javascript /
+Lenguaje de marcado de Hipertexto (Html), Hojas de Estilos
 Manejo de:
 Editor de texto (Visual Studio Code) / Plataforma Business Intelligence (QlikSense) 
 Plataforma sin código (AppSheet)
