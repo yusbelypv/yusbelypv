@@ -1,24 +1,35 @@
-### Hola 👋, mi nombre es Yusbely
-#### Soy Ingeniero de Sistemas 
-![También soy desarrollador](https://github.com/yusbelypv/yusbelypv/blob/main/git.png)
+# Hola 👋, soy Yusbely
 
-Me encanta crear y poder construir soluciones web.
+### Ecommerce & Web Solutions
+#### Shopify • Landing Pages • UX Optimization
 
-Soft Skills: Comunicación / Resolución de problemas / Trabajo en equipo / 
-Autogestión / Curiosidad / Responsabilidad / Capacidad de Análisis 
+![Landing Pages & Ecommerce](https://github.com/yusbelypv/yusbelypv/blob/main/git.png)
 
-Hard Skills: 
-Lenguajes de programación: Javascript /
-Lenguaje de marcado de Hipertexto (Html), Hojas de Estilos
-Manejo de:
-Editor de texto (Visual Studio Code) / Plataforma Business Intelligence (QlikSense) 
-Plataforma sin código (AppSheet)
-Sistema de gestión de contenidos (CMS) Wordpress
+Ayudo a negocios y marcas a mejorar su presencia digital mediante landing pages, ecommerce y optimización de experiencia de usuario.
 
+## 🚀 Enfoque
+- Landing Pages modernas y responsive
+- Shopify & WooCommerce
+- Optimización UX/UI
+- Ecommerce y experiencia digital
+- Diseño web orientado a conversión
 
-- 🌱 Actualmente me encuentro aprendiendo nuevas tecnologías y realizando un Master en Sistemas
-- 📫 Linkedin: https://www.linkedin.com/in/yusbely-parra/
-- 📫 Portafolio: https://briefcase-seven.vercel.app/
+## 🛠️ Tecnologías & Herramientas
+- HTML
+- CSS
+- JavaScript
+- Shopify
+- WordPress
+- WooCommerce
+- Figma
+- Notion
+- Visual Studio Code
+
+## 📌 Actualmente
+🌱 Construyendo proyectos digitales y mejorando habilidades en ecommerce, UX y optimización web.
+
+## 📫 Contacto
+- LinkedIn: www.linkedin.com/in/yusbely-parra
 
 
 
