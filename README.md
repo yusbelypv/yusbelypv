@@ -3,8 +3,7 @@
 ### Ecommerce & Web Solutions
 #### Shopify • Landing Pages • UX Optimization
 
-![Landing Pages & Ecommerce](https://github.com/yusbelypv/yusbelypv/blob/main/git.png)
-
+![Landing Pages & Ecommerce]
 Ayudo a negocios y marcas a mejorar su presencia digital mediante landing pages, ecommerce y optimización de experiencia de usuario.
 
 ## 🚀 Enfoque
