@@ -28,6 +28,7 @@ Ayudo a negocios y marcas a mejorar su presencia digital mediante landing pages,
 
 ## 📫 Contacto
 - LinkedIn: www.linkedin.com/in/yusbely-parra
+- Email: yusbelypv@gmail.com
 
 
 
